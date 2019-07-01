@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53146" started-at="2019-06-28T14:28:38Z" finished-at="2019-06-28T14:29:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53146" started-at="2019-06-28T14:28:38Z" finished-at="2019-06-28T14:29:31Z">
+      <class name="Test.GoogleFinanceTest">
+        <test-method status="PASS" signature="GoogleFinanceMarketDetailTest()[pri:0, instance:Test.GoogleFinanceTest@29b5cd00]" name="GoogleFinanceMarketDetailTest" duration-ms="53099" started-at="2019-06-28T14:28:38Z" finished-at="2019-06-28T14:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleFinanceMarketDetailTest -->
+      </class> <!-- Test.GoogleFinanceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
